@@ -49,11 +49,14 @@ a{
 table{
     width: 100%;
     margin-top: 60px;
+    
 
 }
 img{
      border-radius: 20px;
      box-shadow: 0 0 10px black; 
+     margin:0 auto;
+     display block;
 
 }
 #sedan{
@@ -110,6 +113,10 @@ img{
     
 
 }
-#social i {
+#social {
     margin: 20px;
+}
+
+#h5{
+    text-align: 0 auto;
 }
